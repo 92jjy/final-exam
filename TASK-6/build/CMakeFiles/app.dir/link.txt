@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o CMakeFiles/app.dir/protocol.cpp.o CMakeFiles/app.dir/fake_serial.cpp.o -o app 

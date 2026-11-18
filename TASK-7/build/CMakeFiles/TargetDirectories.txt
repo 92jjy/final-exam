@@ -1,0 +1,3 @@
+/home/jjy/final-exam/TASK-7/build/CMakeFiles/app.dir
+/home/jjy/final-exam/TASK-7/build/CMakeFiles/edit_cache.dir
+/home/jjy/final-exam/TASK-7/build/CMakeFiles/rebuild_cache.dir
